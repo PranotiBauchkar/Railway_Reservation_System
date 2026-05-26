@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Railway Reservation System
 
 Full-stack train booking app with React (Vite) frontend and Express + MongoDB backend.
@@ -99,3 +100,7 @@ Search examples: `Kolhapur (KOP)` → `Mumbai CSMT (CSMT)`, `Pune Junction (PUNE
 | `npm start`    | Run API + frontend together          |
 | `npm run seed` | Re-seed database with demo data      |
 | `npm run dev`  | Frontend only                        |
+=======
+# Railway_Reservation_System
+Railway_Reservation_System
+>>>>>>> 482958b8231fdca88e8127859c46d11273726e22
